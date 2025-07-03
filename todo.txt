@@ -1,7 +1,0 @@
--- Add animation for gate
--- Add animation for student walk
--- Implement scoring mechanism
--- If current time >= deadline time, score score, and restart gameplay
-
--- Implement local storage for highscore
--- Implement reset data by erasing local storage
